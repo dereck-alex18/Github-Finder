@@ -1,0 +1,3 @@
+This project is a github profile and repos finder. The program make a resquest to the GitHub everytime a key is released, in other words, it makes a request dynamically as the letters are typed, working similarly to a google search. If the profile is not found, then a message will be displayed to the user. Otherwise, the profile and the 5 latest repos of the user will be displayed normally.
+
+The project was written with vanilla JavaSpript, The only framework used was the bootstrap 4 to build the UI.
